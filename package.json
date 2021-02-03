@@ -1,6 +1,6 @@
 {
   "name": "@dreamtexx/nestjs-crypto",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple Crypto Module for NestJS",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -36,5 +36,9 @@
     "@nestjs/core": "^6.7.0 || ^7.0.0",
     "reflect-metadata": "^0.1.12",
     "rxjs": "^6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DreamTexX/nestjs-crypto.git"
   }
 }
