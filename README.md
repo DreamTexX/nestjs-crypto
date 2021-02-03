@@ -13,7 +13,7 @@ With yarn
 $ yarn add @dreamtexx/nestjs-crypto
 ```
 
-# Usage
+## Usage
 
 Import CryptoModule in your root module.
 
