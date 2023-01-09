@@ -1,6 +1,6 @@
 {
   "name": "@dreamtexx/nestjs-crypto",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Simple Crypto Module for NestJS",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
